@@ -13,7 +13,8 @@ body {
 }
 
 body {
-    background-color: red;
+    background-color: #00000;
+    text-decoration-color: yellow;
 }
 
 header, footer {
