@@ -12,7 +12,9 @@ body {
     border-radius: 50%;
 }
 
-
+body {
+    background-color: red;
+}
 
 header, footer {
     text-align: center;
