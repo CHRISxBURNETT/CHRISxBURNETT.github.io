@@ -47,7 +47,8 @@ footer {
     padding: 5px 0;
 }
 
-.Mixer {
+
+#Mixer {
     width: 500pt
     height: 500pt;
     display: block;
