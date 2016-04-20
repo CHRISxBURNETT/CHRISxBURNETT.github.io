@@ -48,7 +48,18 @@ footer {
     font-size: 10px;
     padding: 5px 0;
 }
+#robbie { 
+    width: 500px
+    height: 500px
+    display:block;
+    margin: 0 auto }
 
+#freestyle {
+    width: 500px
+    height: 500px
+    display:block;
+    margin: 0 auto 
+}
 
 #Mixer {
     width: 500px;
