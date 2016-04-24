@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif; 
+    color: white;
 }
 
 .container {
@@ -17,6 +18,7 @@ body {
 body {
     background-color: #fff;
     text-decoration-color: yellow;
+    background-image: url();
 }
 
 header, footer {
@@ -35,7 +37,7 @@ nav li {
 
 nav a:active, nav a:hover, nav a:visited, nav a:link {
     text-decoration: none;
-    color: #000000;
+    color: white;
 }
 
 nav a:hover {
@@ -60,9 +62,21 @@ footer {
     display: block;
     margin: 0 auto;
 }
+#Chris {
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto; }
+
+.723172760864706560 {
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto; }
 
 #Mixer {
     width: 500px;
     height: 500px;
     display: block;
     margin: 0 auto; }
+
