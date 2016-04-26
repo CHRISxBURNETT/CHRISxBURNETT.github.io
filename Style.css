@@ -81,8 +81,10 @@ footer {
     display: block;
     margin: 0 auto; }
 #ChrisBio {
-    text-align: center;
-    
+    text-align: left;
+    width: 500px;
+    height: 200px;
+
 }
 
 #Mixer {
