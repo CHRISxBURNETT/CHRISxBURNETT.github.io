@@ -103,14 +103,14 @@ footer {
     width:100%;
     height:auto;
     margin: 30px auto;
-    position: center;
     border: 2px solid #777;
+    align-content: center;
 
 }
 #quotes {
     width:500px;
     height:500px;
-    margin: 30px auto;
+    margin: 0 auto;
     display: block;
     border: 2px solid #777;
 
