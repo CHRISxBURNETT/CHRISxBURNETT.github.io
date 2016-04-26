@@ -126,8 +126,35 @@ footer {
     position:center;
 }
 
-    #new {
-         width: 500px;
-        height: 500px;
+    #JColeQuote {
+        width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto; 
     }
+    #KanyeQuote {
+        width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto; 
+    }
+    #KidCudiQuote {
+        width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto; 
+    }
+    #PharrellQuote {
+        width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto; 
+    }
+    #KendrickQuote {
+        width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto; 
+    }
+
 
