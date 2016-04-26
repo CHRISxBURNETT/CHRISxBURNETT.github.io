@@ -108,7 +108,12 @@ footer {
 
 }
 #quotes {
-    align-content: center;
+    width:100%;
+    height:auto;
+    margin: 30px auto;
+    position: center;
+    border: 2px solid #777;
+
 }
 #JCole, #Kendrick, #Kanye, #Pharrell,
 #KidCudi {
