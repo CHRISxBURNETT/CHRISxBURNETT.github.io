@@ -58,7 +58,7 @@ footer {
 
 #music { 
     width: 500px;
-    height: 500px;
+    height: 100px;
     display: block;
     margin: 0 auto;
     text-align: center; }
@@ -80,7 +80,10 @@ footer {
     height: 500px;
     display: block;
     margin: 0 auto; }
-
+#ChrisBio {
+    text-align: center;
+    
+}
 
 #Mixer {
     width: 500px;
