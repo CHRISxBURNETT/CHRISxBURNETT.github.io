@@ -80,7 +80,7 @@ footer {
     height: 500px;
     display: block;
     margin: 0 auto; }
-    
+
 #ChrisBio {
     width: 500px;
     height: 100px;
@@ -94,4 +94,24 @@ footer {
     height: 500px;
     display: block;
     margin: 0 auto; }
+
+#collage-container{
+    width:700px;
+    height:500px;
+    margin: 30px auto;
+    position: relative;
+    border: 2px solid #777;
+}
+#Kanye,#Kendrick,#JCole,#KidCudi,
+#Pharrell {
+    width:168px;
+    height:224px;
+    padding:10px;
+    background#eee;
+    border-radius:20px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    position:absolute;
+}
+
 
