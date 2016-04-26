@@ -101,11 +101,22 @@ footer {
 <style type=text/css  >
 
 #collage-container{
-    width:800px;
+    width:700px;
     height:500px;
     margin: 30px auto;
     position: relative;
     border: 2px solid #777;
+}
+#Kanye,#Kendrick,#JCole,#KidCudi,
+#Pharrell {
+    width:168px;
+    height:224px;
+    padding:10px;
+    background#eee;
+    border-radius:20px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    position:center;
 }
 
 </style>
