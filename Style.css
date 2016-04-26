@@ -124,4 +124,12 @@ footer {
     -moz-border-radius:20px;
     -webkit-border-radius:20px;
     position:center;
+}
+
+    #new {
+         width: 500px;
+        height: 500px;
+        display: block;
+         margin: 0 auto;
+    }
 
