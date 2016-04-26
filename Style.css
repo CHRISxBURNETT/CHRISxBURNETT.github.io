@@ -50,12 +50,19 @@ footer {
     font-size: 10px;
     padding: 5px 0;
 }
-#music { 
+.quote {
     width: 500px;
     height: 500px;
     display: block;
     margin: 0 auto; }
     
+#music { 
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+    text-align: center; }
+
 #robbie { 
     width: 500px;
     height: 500px;
