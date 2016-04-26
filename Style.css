@@ -109,9 +109,8 @@ footer {
 }
 
 .resize {
-    width: 100px;
-    height: 100px;
-    margin: center;
+    width: 80%;
+    height: 80%;
     border: 2px solid #777;
 
 }
