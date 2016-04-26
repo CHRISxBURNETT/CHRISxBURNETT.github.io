@@ -107,11 +107,11 @@ footer {
     align-content: center;
 
 }
+
 #quotes {
     width: 400px;
     height: 400px;
-    margin: 0 auto;
-    display: block;
+    margin-right: 40%;
     border: 2px solid #777;
 
 }
